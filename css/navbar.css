@@ -1,0 +1,32 @@
+ .nav-pills>li>a
+        {
+	border-radius: 4px;
+	color: white;
+	}
+        
+.nav>li>a:focus, .nav>li>a:hover 
+        {
+		text-decoration: none;
+		background-color: #f7e830;
+		color: black;
+		font-weight: 500;
+	}
+
+
+
+
+.navbar-inverse .navbar-nav>.active>a:hover 
+        {
+	color: black;
+    background-color:  #f7e830;
+	font-weight: 500;
+	}
+.dropdown>a
+{
+	color:white;
+}
+.open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: #f7e830;
+    border-color: #337ab7;
+	color:black;
+}

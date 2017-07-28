@@ -1,0 +1,5 @@
+F:\Shubham\language\asp.net\ecom\Ecom\ecom\bin\ecom.dll
+F:\Shubham\language\asp.net\ecom\Ecom\ecom\bin\ecom.pdb
+F:\Shubham\language\asp.net\ecom\Ecom\ecom\obj\Release\ResolveAssemblyReference.cache
+F:\Shubham\language\asp.net\ecom\Ecom\ecom\obj\Release\ecom.dll
+F:\Shubham\language\asp.net\ecom\Ecom\ecom\obj\Release\ecom.pdb
